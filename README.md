@@ -27,4 +27,4 @@ I value collaboration and open communication, and I'm looking forward to gaining
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ruid%C3%ADas-cordova-272644451/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alejandro-ruidias-cordova-272644451/)
